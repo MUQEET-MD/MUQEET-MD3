@@ -13,7 +13,7 @@ cmd({
 async (conn, mek, m, { from }) => {
     try {
         // Owner's contact info
-        const ownerNumber = '+923003588997'; // Replace this with the actual owner number
+        const ownerNumber = '+923163954173','+923116609742'; // Replace this with the actual owner number
         const ownerName = '𓆩ု᪳𝐌𝐔𝐐𝐄𝐄𝐓 𝐈𝐍𝅦𝐒i͜͡𝐃𝐄ှ᪳𓆪'; // Replace this with the owner's name
         const organization = '𝐌𝐔𝐒𝐓𝐀𝐅𝐀 TEAM'; // Optional: replace with the owner's organization
 
