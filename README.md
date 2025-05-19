@@ -6,7 +6,7 @@
 > **`Updated To` The Version 1.0**
 --- 
 
-<a><img src='https://files.catbox.moe/nck4mq.jpg'/></a>
+<a><img src='https://files.catbox.moe/ovac5z.jpg'/></a>
 
 ---
 ```
